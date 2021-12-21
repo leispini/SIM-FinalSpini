@@ -1,0 +1,11 @@
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\bin\Debug\TPSimFinal.exe.config
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\bin\Debug\TPSimFinal.exe
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\bin\Debug\TPSimFinal.pdb
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\obj\Debug\TPSimFinal.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\obj\Debug\TPSimFinal.Form1.resources
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\obj\Debug\TPSimFinal.Properties.Resources.resources
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\obj\Debug\TPSimFinal.csproj.GenerateResource.cache
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\obj\Debug\TPSimFinal.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\obj\Debug\TPSimFinal.exe
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\obj\Debug\TPSimFinal.pdb
+C:\Users\usuario\OneDrive\Escritorio\4AÑO_LEILA\sim 2\material segundo parcial (mio)\TPSim\TPSimFinal\TPSimFinal\obj\Debug\TPSimFinal.Form2_enunciado.resources
