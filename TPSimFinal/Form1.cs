@@ -44,9 +44,28 @@ namespace TPSimFinal
             media =txtMedia.Text != "" ? Int32.Parse(txtMedia.Text) : 15;
             a = txtA.Text != "" ? Int32.Parse(txtA.Text) : 10;
             b = txtB.Text != "" ? Int32.Parse(txtB.Text) : 20;
-            calculo = new Calculo(this);
-
-
+            if (hasta > desde)
+            {
+                if (media > 0 && a > 0 && b > 0 && cantPerritos > 0)
+                {
+                    if (b > a)
+                    {
+                        calculo = new Calculo(this);
+                    }
+                    else
+                    {
+                        MessageBox.Show("El valor de B debe ser mayor a A");
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Los valores de A, B, media y cantPerritos deben ser positivos");
+                }
+            }
+            else 
+            {
+                MessageBox.Show("El Desde debe ser mayor al Hasta");
+            }
         }
 
         public void cargarFila(Simulacion s)
